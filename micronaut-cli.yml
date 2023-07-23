@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: org.jw
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: gradle_kotlin
+features: [annotation-api, app-name, assertj, control-panel, data, data-jpa, graalvm, gradle, hamcrest, http-client, jdbc-hikari, jib, junit, junit-params, kotlin, kotlin-application, ksp, liquibase, logback, micronaut-aot, micronaut-build, micronaut-http-validation, mysql, openapi, readme, security, security-annotations, security-jwt, security-session, serialization-jackson, shade, swagger-ui, test-resources, tomcat-server, validation, yaml, yaml-build]
